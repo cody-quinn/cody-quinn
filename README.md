@@ -1,16 +1,16 @@
-### Hi there 👋
+### Ello! 👋
 
-<!--
-**CatDevz/CatDevz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Cody. I'm a highschool student in california who enjoys to program in his freetime. I am best with Python and Java, however I know the basics in some other languages such as C# and JavaScript 
+ 
+:globe_with_meridians: [Website](https://codyq.me)
 
-Here are some ideas to get you started:
+### My noteable projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### [COVIDWatch](https://github.com/CatDevz/COVIDWatchDiscordBot) 
+COVIDWatch is a Discord bot in around 100 Discord servers. It can be used to trach coronavirus statistics with simple commands.
+
+##### [CatastropheMC](https://github.com/CatastropheMCS)
+While containing only private repositories (soon to change?) I have dedicated many, many hours to this project. You can join the server @ `play.catastrophemc.net`
+
+##### [codyq.me](https://codyq.me)  (private)
+My personal website, gotta love it.
