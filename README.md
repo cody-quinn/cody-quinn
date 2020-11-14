@@ -7,5 +7,6 @@ My name is Cody. I'm a highschool student in california who enjoys to program in
 ### My noteable projects
 
 - [COVIDWatch](https://github.com/CatDevz/COVIDWatchDiscordBot) 
+- [Extra Discs](https://github.com/CatDevz/ExtraDiscs)
 - [CatastropheMC](https://github.com/CatastropheMCS)
 - [codyq.me](https://codyq.me)  (private)
